@@ -322,7 +322,7 @@ body {
 	display: inline-block;
 	width: 13px;
 	height: 10px;
-	background-image: url('../../images/check-mark.svg');
+	background-image: url('../images/check-mark.svg');
 	background-size: contain;
 	background-repeat: no-repeat;
 
