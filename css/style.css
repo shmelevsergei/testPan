@@ -1,20 +1,20 @@
-@import url('/css/assets/normalize.css');
-@import url('/css/assets/global.css');
-@import url('/css/assets/variables.css');
-@import url('/css/assets/fonts.css');
-@import url('/css/assets/swiper.min.css');
+@import url('./css/assets/normalize.css');
+@import url('./css/assets/global.css');
+@import url('./css/assets/variables.css');
+@import url('./css/assets/fonts.css');
+@import url('./css/assets/swiper.min.css');
 
-@import url('/css/components/menu-dropdown.css');
-@import url('/css/components/button.css');
-@import url('/css/components/form.css');
-@import url('/css/components/header.css');
-@import url('/css/components/footer.css');
-@import url('/css/components/button-top.css');
+@import url('./css/components/menu-dropdown.css');
+@import url('./css/components/button.css');
+@import url('./css/components/form.css');
+@import url('./css/components/header.css');
+@import url('./css/components/footer.css');
+@import url('./css/components/button-top.css');
 
-@import url('/css/assets/effects.css');
+@import url('./css/assets/effects.css');
 
-@import url('/css/section/firstscreen.css');
-@import url('/css/section/slider.css');
-@import url('/css/section/change.css');
-@import url('/css/section/map.css');
-@import url('/css/section/benefits.css');
+@import url('./css/section/firstscreen.css');
+@import url('./css/section/slider.css');
+@import url('./css/section/change.css');
+@import url('./css/section/map.css');
+@import url('./css/section/benefits.css');
