@@ -1,0 +1,15 @@
+@font-face {
+	font-family: Formular;
+	src: url('../../fonts/formular-regular.woff');
+	font-weight: 400;
+}
+@font-face {
+	font-family: Formular;
+	src: url('../../fonts/formular-bold.woff');
+	font-weight: 700;
+}
+@font-face {
+	font-family: Formular;
+	src: url('../../fonts/formular-light.woff');
+	font-weight: 200;
+}

@@ -1,0 +1,10 @@
+:root {
+	--colorPrimary: #1e2030;
+	--colorSecondary: #2c2e3e;
+	--colorWhite: #fff;
+	--colorText: #8f95ac;
+	--colorAction: #ff0c00;
+	--hoverBtn: 0px 10px 20px rgba(255, 45, 35, 0.3);
+	--hoverItem: 0px 0px 20px rgba(143, 149, 172, 0.4);
+	--border: 1px solid var(--colorText);
+}

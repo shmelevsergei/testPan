@@ -1,0 +1,33 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body,
+button,
+h1,
+h2,
+h3,
+h4,
+h5,
+a {
+	font-size: 14px;
+	font-family: 'formular';
+	font-weight: 400;
+}
+
+body {
+	position: relative;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 1240px;
+	padding: 0 10px;
+}
+
+.h2-title {
+	font-weight: 700;
+	font-size: 48px;
+	line-height: 55px;
+	color: var(--colorSecondary);
+}

@@ -1,0 +1,37 @@
+.map {
+	padding: 60px 0;
+}
+
+.map__content {
+	width: 100%;
+	height: 507px;
+}
+.customControl {
+	background: url('../../images/bg-map-text.svg') center / cover no-repeat;
+	width: 310px;
+	height: 233px;
+}
+
+.customControl__content {
+	color: var(--colorSecondary);
+	padding: 40px 60px;
+	text-align: left;
+}
+
+.customControl__content h5 {
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+.customControl__content p {
+	line-height: 18px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.customControl__content a {
+	color: var(--colorAction);
+	line-height: 18px;
+	text-decoration: underline;
+}

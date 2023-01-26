@@ -1,0 +1,25 @@
+.button__top {
+	display: flex;
+	color: var(--colorPrimary);
+	align-items: center;
+	gap: 10px;
+	cursor: pointer;
+	margin-bottom: 20px;
+	margin-left: auto;
+	width: 95px;
+}
+
+.button__top-icon {
+	width: 30px;
+	height: 30px;
+	border-radius: 100%;
+	background-color: var(--colorPrimary);
+	color: var(--colorWhite);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.button__top-icon svg {
+	width: 13px;
+	height: 13px;
+}

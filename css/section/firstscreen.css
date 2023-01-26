@@ -1,0 +1,22 @@
+.firstscreen {
+	background-color: var(--colorPrimary);
+}
+
+.firstscreen__wrapper {
+	display: flex;
+	height: 885px;
+	align-items: center;
+}
+
+.firstscreen__content h1 {
+	color: var(--colorWhite);
+	font-weight: 700;
+	font-size: 48px;
+	line-height: 55px;
+
+	max-width: 500px;
+}
+
+.firstscreen__img {
+	max-width: 467px;
+}

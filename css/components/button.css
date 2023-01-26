@@ -1,0 +1,7 @@
+.btn {
+	background-color: var(--colorAction);
+	color: var(--colorWhite);
+	border-radius: 32.5px;
+	font-weight: 700;
+	font-size: 16px;
+}
